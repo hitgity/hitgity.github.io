@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.carrierjam.app",
+      "sha256_cert_fingerprints": [
+        "AC:52:24:C2:2A:65:48:36:CA:2D:56:13:3C:90:A9:6B:39:48:14:57:96:7F:CB:26:A3:72:16:5F:FC:69:11:6E"
+      ]
+    }
+  }
+]
